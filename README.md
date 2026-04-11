@@ -25,7 +25,7 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/pgAdmin_4-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 🎵 [Spotify Data Analysis](https://github.com/RohitSircar45/Spotify-Data-Analysis)
 Explored Spotify streaming trends with business intelligence insights and visualizations.
-- **Tech:** Python, Pandas, Power BI
+- **Tech:** Python, Pandas, PowerPoint
 - **Focus:** Track popularity trends, genre analysis, business recommendations
 
 ### 🎬 [Netflix SQL Project](https://github.com/RohitSircar45/netflix_sql_project)
