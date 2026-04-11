@@ -53,22 +53,18 @@ Interactive Tableau dashboard visualizing British Airways customer review data.
 
 ---
 
-## 📈 GitHub Stats
+## 💡 What I Can Do
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitSircar45&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitSircar45&theme=tokyonight)
+- 🔍 **Data Cleaning & Wrangling** — Transform messy, raw datasets into structured, analysis-ready data using Python and Pandas
+- 🗄️ **SQL & Database Querying** — Write complex queries, joins, and aggregations using PostgreSQL and pgAdmin 4
+- 📊 **Dashboard Building** — Design interactive, business-ready dashboards in Power BI and Tableau
+- 📈 **Exploratory Data Analysis** — Uncover patterns, trends, and outliers to generate actionable insights
+- 🧮 **Spreadsheet Analysis** — Build models, pivot tables, and reports in Excel and Google Sheets
+- 📝 **Reporting & Storytelling** — Translate data findings into clear narratives for both technical and non-technical audiences
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-sircar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohitsircar.com)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com)
-
----
-
-[![Profile views](https://komarev.com/ghpvc/?username=RohitSircar45&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/RohitSircar45)
-
-*💼 Open to Data Analytics internships | 📊 Let's turn data into decisions!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-sircar-3a3608231/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsircar40@gmail.com)
