@@ -31,9 +31,14 @@
 
 ## 📊 Featured Projects
 
+### 🛍️ [ShopSmart USA — Customer & Sales Analysis](https://github.com/RohitSircar45/shopsmart-usa-analysis)
+End-to-end retail analytics project on 50,000 customers and 50,000 orders covering SQL, Python EDA, and Power BI dashboards.
+- **Tech:** Python, PostgreSQL, Power BI, Pandas, Plotly
+- **Focus:** Customer segmentation, churn risk, RFM analysis, sales forecasting, business recommendations
+
 ### 🎵 [Spotify Data Analysis](https://github.com/RohitSircar45/Spotify-Data-Analysis)
 Explored Spotify streaming trends with business intelligence insights and visualizations.
-- **Tech:** Python, Pandas, PowerPoint
+- **Tech:** PostgreSQL, pgAdmin 4, PowerPoint
 - **Focus:** Track popularity trends, genre analysis, business recommendations
 
 ### 🎬 [Netflix SQL Project](https://github.com/RohitSircar45/netflix_sql_project)
