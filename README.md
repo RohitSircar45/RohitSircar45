@@ -32,7 +32,7 @@
 
 ## 📊 Featured Projects
 
-### 🛍️ [ShopSmart USA Customer & Sales Analysis](https://github.com/RohitSircar45/shopsmart-usa-analysis)
+### 🛍️ [ShopSmart USA Customer & Sales Analysis](https://github.com/RohitSircar45/Customer-Order-Analysis)
 End-to-end retail analytics project on 50,000 customers and 50,000 orders covering SQL, Python EDA, and Power BI dashboards.
 - **Tech:** Python, PostgreSQL, Power BI, Pandas, Plotly
 - **Focus:** Customer segmentation, churn risk, RFM analysis, sales forecasting, business recommendations
