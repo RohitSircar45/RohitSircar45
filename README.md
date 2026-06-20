@@ -32,6 +32,11 @@
 
 ## 📊 Featured Projects
 
+### 🟣 [The Twitch Stream Ecosystem: Macro Analysis & ML Pipeline](https://github.com/RohitSircar45/Twitch-Streaming-Analysis)
+Comprehensive macroeconomic and predictive analysis evaluating 2016–2024 streaming traffic trends, backed by a Random Forest Regressor ($R^2 = 0.9187$).
+- **Tech:** Python, Pandas, Scikit-Learn, Machine Learning
+- **Focus:** Asymmetric category resilience ("Just Chatting" vs. Pure Gaming), demand-driven influencer networks, predictive attention modeling, structural platform stabilization insights
+
 ### 🛍️ [ShopSmart USA Customer & Sales Analysis](https://github.com/RohitSircar45/Customer-Order-Analysis)
 End-to-end retail analytics project on 50,000 customers and 50,000 orders covering SQL, Python EDA, and Power BI dashboards.
 - **Tech:** Python, PostgreSQL, Power BI, Pandas, Plotly
@@ -41,11 +46,6 @@ End-to-end retail analytics project on 50,000 customers and 50,000 orders coveri
 Explored Spotify streaming trends with business intelligence insights and visualizations.
 - **Tech:** PostgreSQL, pgAdmin 4, PowerPoint
 - **Focus:** Track popularity trends, genre analysis, business recommendations
-
-### 🎬 [Netflix SQL Project](https://github.com/RohitSircar45/netflix_sql_project)
-Analyzed Netflix's full movies and TV shows dataset using structured SQL queries.
-- **Tech:** PostgreSQL, pgAdmin 4
-- **Focus:** Content distribution, genre trends, release pattern analysis
 
 ### 🛒 [Customer Behavior Analysis](https://github.com/RohitSircar45/customer_behavior_analysis)
 End-to-end analytics project on customer purchasing patterns and segmentation.
