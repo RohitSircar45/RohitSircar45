@@ -32,7 +32,7 @@
 
 ## 📊 Featured Projects
 
-### 🟣 [The Twitch Stream Ecosystem: Macro Analysis & ML Pipeline](https://github.com/RohitSircar45/Twitch-Streaming-Analysis)
+### 🟣 [The Twitch Stream Ecosystem: Macro Analysis & ML Pipeline](https://github.com/RohitSircar45/Twitch_Data_Analysis)
 Comprehensive macroeconomic and predictive analysis evaluating 2016–2024 streaming traffic trends using a predictive Random Forest Regressor framework.
 - **Tech:** Python, Pandas, Scikit-Learn, Machine Learning
 - **Focus:** Asymmetric category resilience ("Just Chatting" vs. Pure Gaming), demand-driven influencer networks, predictive attention modeling, structural platform stabilization insights
