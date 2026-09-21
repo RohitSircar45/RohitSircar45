@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Sircar;Business+%26+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+Expert;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Sircar;DataEngineer+%26+Data+Scientist;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+Expert;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 ---
 
-💼 **Open to Data Analytics Internship opportunities**
+💼 **Open to Data Science Internship opportunities**
 
 ---
 
